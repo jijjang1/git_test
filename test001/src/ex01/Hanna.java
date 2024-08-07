@@ -1,5 +1,6 @@
 package ex01; 
 
-public class Hanna (
+public class Hanna {
   
-)
+}
+
